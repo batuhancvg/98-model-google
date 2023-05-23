@@ -1,0 +1,62 @@
+.simge{
+    margin-top: 8px;
+    width: 100%;
+}
+.srch{
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 90%;
+    height: 65px;
+    margin: auto;
+}
+input[type=text]{
+    height: 15px;
+    width: 310px;
+}
+.alt-satir{
+    display:flex;
+    align-items: center;
+   
+}
+.kutu-1{
+    display: inline-block;
+    background-color: #75e2d5;
+    display: inline-block;
+    text-align: center;
+    height: 75px;
+    width: 33.5%;
+    margin-left: 95px;
+    padding-top: 7px;
+    margin-top: 2px; 
+}
+.kutu-2{
+    display: inline-block;
+    background-color: #70CCC2;
+    height: 75px;
+    width: 19.5%;
+    margin-top: 2px;
+    text-align: center;
+    padding-top: 7px;
+    margin-left: 2px;
+    
+
+
+}
+.kutu-3{
+    display: inline-block;
+    background-color: #59b1a7;
+    height: 75px;
+    width: 36.8%;
+    margin-top: 2px;
+    padding-top: 7px;
+    text-align: center;
+    margin-left: 2px;
+
+}
+input[type=text1]{
+    width: 170px;
+}
+
+.text-son{
+    padding-top: 15px;
+}
